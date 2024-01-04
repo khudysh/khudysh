@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on a coursework
-- 🌱 I’m currently learning Flutter/Dart
 - ⚡ Joke of the day #1: An SQL query goes into a bar, walks up to two tables, and asks, “Can I join you?”
 - ⚡ Joke of the day #2: If you have a problem and you are going to solve it using regular expressions, then you will already have two problems.
 
